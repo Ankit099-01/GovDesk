@@ -7,7 +7,9 @@
     "server": "npm run dev --prefix server",
     "client": "npm run dev --prefix client",
     "dev": "node start-dev.js",
-    "seed": "npm run seed --prefix server"
+    "seed": "npm run seed --prefix server",
+    "export-db": "npm run export-db --prefix server",
+    "migrate-atlas": "npm run migrate-atlas --prefix server"
   },
   "keywords": ["govdesk", "government", "mern", "react", "express"],
   "author": "GovDesk Team",

@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "6aa19640c2745cf29bed8258",
+    "user_id": null,
+    "type": "deadline_reminder",
+    "title": "National Scholarship Portal 2026-27 Applications Closing Soon",
+    "title_hi": "राष्ट्रीय छात्रवृत्ति पोर्टल आवेदन की अंतिम तिथि निकट है",
+    "message": "Pre-Matric and Post-Matric scholarship online applications close on 30th September. Complete your institute verification immediately.",
+    "message_hi": "प्री-मैट्रिक और पोस्ट-मैट्रिक छात्रवृत्ति के ऑनलाइन आवेदन 30 सितंबर को बंद हो रहे हैं।",
+    "link": "/services/srv_nsp",
+    "read_status": false,
+    "created_at": "2026-09-09T13:24:16.503Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa19640c2745cf29bed8259",
+    "user_id": null,
+    "type": "scheme_alert",
+    "title": "PM-KISAN 17th Installment Release Date Announced",
+    "title_hi": "पीएम-किसान 17वीं किस्त जारी होने की तारीख घोषित",
+    "message": "The upcoming installment will be credited via DBT directly into Aadhaar-seeded accounts. Verify that your eKYC status is green.",
+    "message_hi": "अगली किस्त सीधे आधार से जुड़े खातों में डीबीटी के जरिए भेजी जाएगी। अपनी ई-केवाईसी जांच लें।",
+    "link": "/services/srv_pmkisan",
+    "read_status": false,
+    "created_at": "2026-09-08T17:24:16.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa19640c2745cf29bed825a",
+    "user_id": null,
+    "type": "document_expiry",
+    "title": "Free Aadhaar Document Revalidation Extended",
+    "title_hi": "मुफ्त आधार दस्तावेज नवीनीकरण की अवधि बढ़ाई गई",
+    "message": "UIDAI has extended the free online document update facility for Proof of Identity and Address on myAadhaar portal.",
+    "message_hi": "यूआईडीएआई ने माय-आधार पोर्टल पर पहचान और पते के दस्तावेज मुफ्त अपडेट करने की अवधि बढ़ा दी है।",
+    "link": "/services/srv_aadhaar",
+    "read_status": true,
+    "created_at": "2026-09-06T17:24:16.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa19956bc1d51f129fff140",
+    "user_id": "6aa19956bc1d51f129fff13e",
+    "type": "scheme_alert",
+    "title": "Welcome to GovDesk!",
+    "title_hi": "गोवडेस्क में आपका स्वागत है!",
+    "message": "Explore government schemes, check your eligibility, and track services easily.",
+    "message_hi": "सरकारी योजनाओं को खोजें, अपनी पात्रता जांचें और सेवाओं को ट्रैक करें।",
+    "link": "/services",
+    "read_status": true,
+    "created_at": "2026-09-09T17:37:26.147Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aab7a27b5d27adf92e77848",
+    "user_id": "6aab7a27b5d27adf92e77846",
+    "type": "scheme_alert",
+    "title": "Welcome to GovDesk!",
+    "title_hi": "गोवडेस्क में आपका स्वागत है!",
+    "message": "Explore government schemes, check your eligibility, and track services easily.",
+    "message_hi": "सरकारी योजनाओं को खोजें, अपनी पात्रता जांचें और सेवाओं को ट्रैक करें।",
+    "link": "/services",
+    "read_status": false,
+    "created_at": "2026-09-17T05:27:03.613Z",
+    "__v": 0
+  }
+]

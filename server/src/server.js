@@ -64,3 +64,5 @@ app.listen(PORT, () => {
   console.log(`🗄️  Database: MongoDB (mongodb://127.0.0.1:27017/govdesk)`);
   console.log(`====================================================`);
 });
+
+export default app;

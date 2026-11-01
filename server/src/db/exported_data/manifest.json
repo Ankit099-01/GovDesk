@@ -1,0 +1,17 @@
+{
+  "exportedAt": "2026-11-01T12:59:54.339Z",
+  "database": "govdesk",
+  "source": "mongodb://127.0.0.1:27017/govdesk",
+  "collections": {
+    "notifications": 5,
+    "otpverifications": 0,
+    "users": 3,
+    "feedbacks": 0,
+    "services": 88,
+    "officelocations": 46,
+    "savedservices": 0,
+    "auditlogs": 7,
+    "categories": 10,
+    "grievances": 0
+  }
+}
