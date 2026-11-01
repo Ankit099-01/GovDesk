@@ -11,3 +11,6 @@ project-structure.txt
 
 # Local application data
 server/data/store.json
+
+# Local MongoDB exported data
+server/src/db/exported_data/
